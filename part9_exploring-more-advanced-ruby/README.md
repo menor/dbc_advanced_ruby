@@ -4,7 +4,6 @@
 
 - demonstrate literacy of advanced Ruby idioms and syntactic structures
 - apply advanced Ruby idioms when refactoring code
--
 
 ## Summary
 
