@@ -2,7 +2,7 @@ This repo includes 9 challenges.  That's a lot of work.
 
 Your goal is to manage the amount of work you have to do today while learning more about Ruby in 1 day than you ever thought possible.  Have fun!
 
-- Part 1: Ruby drill argv basics: command line to the rescue  
+- Part 1: Ruby drill ARGV basics: command line to the rescue  
 - Part 2: Ruby drill enumerable methods: get to know the Enumerable module  
 - Part 3: Review enumerable methods: dig into the Enumerable module  
 - Part 4: The Fibonacci sequence: so strange, yet so familiar  
