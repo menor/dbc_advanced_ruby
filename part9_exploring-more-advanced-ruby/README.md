@@ -1,4 +1,4 @@
-# CHALLENGE TITLE
+# Exploring Advanced Ruby
 
 ##Learning Competencies
 
