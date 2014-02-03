@@ -62,3 +62,6 @@ Note, you'll have to pass in the arguments in quotes because some characters hav
 
 Save this file as `rpn.rb` in your gist.  Remember, you cn add multiple files to a gist.
 
+## Resources
+
+check out the list of [pre-defined variables](http://en.wikibooks.org/wiki/Ruby_Programming/Syntax/Variables_and_Constants#Pre-defined_Variables)
